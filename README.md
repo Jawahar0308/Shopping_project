@@ -10,33 +10,33 @@ One of the best functionality that the projects include is mailing the customers
 
 Note: The payment page is created only for demo purpose and its not fully integrated with any payment gateway. So for now any credit card details will be accepted and the demo orders will be placed.
 
-Highlights :--
-The users will get a mail to their registered mail Id during:-
+Highlights :--<br/>
+The users will get a mail to their registered mail Id during:-<br/>
 New User Registration
 Order Successfully Placed
 The Item was out of stock while exploring but now it got available in the store
-Successful shipment and delivery of the Item
-Technologies used:-
-Front-End Development:
-HTML
-CSS
-Javascript
-BootStrap
-Back-End Development:
-Java [JDK 8+]
-JDBC
-Servlet
-JSP
-Database:
-MySql
-================ Software And Tools Required ================
-: GitHub
-: Java JDK 8+
-: Eclipse EE (Enterprise Edition) 
-: Apache Maven
-: Tomcat v8.0+
-: MySQL Workbench
-Some Images of the Project :-
+Successful shipment and delivery of the Item<br/>
+Technologies used:-<br/>
+Front-End Development:<br/>
+HTML<br/>
+CSS<br/>
+Javascript<br/>
+BootStrap<br/>
+Back-End Development:<br/>
+Java [JDK 8+]<br/>
+JDBC<br/>
+Servlet<br/>
+JSP<br/>
+Database:<br/>
+MySql<br/>
+================ Software And Tools Required ================<br/>
+: GitHub<br/>
+: Java JDK 8+<br/>
+: Eclipse EE (Enterprise Edition) <br/>
+: Apache Maven<br/>
+: Tomcat v8.0+<br/>
+: MySQL Workbench<br/>
+Some Images of the Project :-<br/>
 ![Screenshot 2024-08-04 230944](https://github.com/user-attachments/assets/93119b33-7fee-4a37-818c-e214528cb23f)
 ![Screenshot 2024-08-04 231015](https://github.com/user-attachments/assets/a09bb1d5-1f71-4d3c-864c-bf208db1c9a3)
 ![Screenshot 2024-08-04 231035](https://github.com/user-attachments/assets/a37c2af1-6140-46c9-aca9-0bac6961dd02)
