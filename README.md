@@ -36,4 +36,4 @@ MySql
 : Apache Maven
 : Tomcat v8.0+
 : MySQL Workbench
-https://github.com/Jawahar0308/Shopping_project/issues/1#issue-2447232766
+
